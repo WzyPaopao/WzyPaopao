@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-<div>
-  <div align="left">
-    This is BibiBird. An undergranduate from USETC. 
 
-    Major in adversarial attack on 3D CV.
-  </div>
+This is BibiBird. An undergranduate from USETC. 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+Major in adversarial attack on 3D CV.
+
+
+|<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wzypaopao&count_private=true&show_icons=true" />
-</a>
-</div>
-<br/>
-<a href="https://github.com/anuraghazra/convoychat">
+</a>|<a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzypaopao" />
-</a>
+</a>|
+|---|---|
+
+
+
+
+
+
 
 
 <!--
