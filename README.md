@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is BibiBird. An undergranduate from USETC. Major in adversarial attack on 3D CV.
+
 <!--
 **WzyPaopao/WzyPaopao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
