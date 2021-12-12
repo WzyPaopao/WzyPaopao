@@ -6,15 +6,8 @@ This is BibiBird. An undergranduate from USETC.
 Major in adversarial attack on 3D CV.
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=wzypaopao&count_private=true&show_icons=true" />
-</a> | <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzypaopao" />
-</a> |
-|---|---|
-
-
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wzypaopao&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="WzyPaopao's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzypaopao&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
